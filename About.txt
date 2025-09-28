@@ -1,1 +1,2 @@
 This portfolio is about the Continuous Integration course from HBO-ICT hz, this is Naimi her personal portfolio
+And is now also on github
