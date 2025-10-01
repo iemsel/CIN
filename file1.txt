@@ -1,3 +1,5 @@
 file1
 file1 on master
+file1 again
+file1 x3
 file1 (again for merge conflict)
